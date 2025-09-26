@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"cyber.tmj"
+        }
+    },
  "height":200,
  "infinite":false,
  "layers":[
